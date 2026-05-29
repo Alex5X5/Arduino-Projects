@@ -1,6 +1,7 @@
 #define LED_PIN_RED 13
 #define LED_PIN_YELLOW 12
 #define LED_PIN_GREEN 11
+#define CHANGE 1
 
 int brightness;
 int fade = 5;
